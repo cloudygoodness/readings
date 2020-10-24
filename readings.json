@@ -1,0 +1,2930 @@
+[
+ {
+   "date": "01-Jan",
+   "readings": {
+      "r1": "Genesis 1&2",
+      "r2": "Psalm 1&2",
+      "r3": "Matthew 1&2"
+   }
+},
+ {
+   "date": "02-Jan",
+   "readings": {
+      "r1": "Genesis 3&4",
+      "r2": "Psalm 3&5",
+      "r3": "Matthew 3&4"
+   }
+},
+ {
+   "date": "03-Jan",
+   "readings": {
+      "r1": "Genesis 5&6",
+      "r2": "Psalm 6&8",
+      "r3": "Matthew 5"
+   }
+},
+ {
+   "date": "04-Jan",
+   "readings": {
+      "r1": "Genesis 7&8",
+      "r2": "Psalm 9&10",
+      "r3": "Matthew 6"
+   }
+},
+ {
+   "date": "05-Jan",
+   "readings": {
+      "r1": "Genesis 9&10",
+      "r2": "Psalm 11&13",
+      "r3": "Matthew 7"
+   }
+},
+ {
+   "date": "06-Jan",
+   "readings": {
+      "r1": "Genesis 11&12",
+      "r2": "Psalm 14&16",
+      "r3": "Matthew 8"
+   }
+},
+ {
+   "date": "07-Jan",
+   "readings": {
+      "r1": "Genesis 13&14",
+      "r2": "Psalm 17",
+      "r3": "Matthew 9"
+   }
+},
+ {
+   "date": "08-Jan",
+   "readings": {
+      "r1": "Genesis 15&16",
+      "r2": "Psalm 18",
+      "r3": "Matthew 10"
+   }
+},
+ {
+   "date": "09-Jan",
+   "readings": {
+      "r1": "Genesis 17&18",
+      "r2": "Psalm 19&21",
+      "r3": "Matthew 11"
+   }
+},
+ {
+   "date": "10-Jan",
+   "readings": {
+      "r1": "Genesis 19",
+      "r2": "Psalm 22",
+      "r3": "Matthew 12"
+   }
+},
+ {
+   "date": "11-Jan",
+   "readings": {
+      "r1": "Genesis 20&21",
+      "r2": "Psalm 23&25",
+      "r3": "Matthew 13"
+   }
+},
+ {
+   "date": "12-Jan",
+   "readings": {
+      "r1": "Genesis 22&23",
+      "r2": "Psalm 26&28",
+      "r3": "Matthew 14"
+   }
+},
+ {
+   "date": "13-Jan",
+   "readings": {
+      "r1": "Genesis 24",
+      "r2": "Psalm 29&30",
+      "r3": "Matthew 15"
+   }
+},
+ {
+   "date": "14-Jan",
+   "readings": {
+      "r1": "Genesis 25&26",
+      "r2": "Psalm 31",
+      "r3": "Matthew 16"
+   }
+},
+ {
+   "date": "15-Jan",
+   "readings": {
+      "r1": "Genesis 27",
+      "r2": "Psalm 32",
+      "r3": "Matthew 17"
+   }
+},
+ {
+   "date": "16-Jan",
+   "readings": {
+      "r1": "Genesis 28&29",
+      "r2": "Psalm 33",
+      "r3": "Matthew 18"
+   }
+},
+ {
+   "date": "17-Jan",
+   "readings": {
+      "r1": "Genesis 30",
+      "r2": "Psalm 34",
+      "r3": "Matthew 19"
+   }
+},
+ {
+   "date": "18-Jan",
+   "readings": {
+      "r1": "Genesis 31",
+      "r2": "Psalm 35",
+      "r3": "Matthew 20"
+   }
+},
+ {
+   "date": "19-Jan",
+   "readings": {
+      "r1": "Genesis 32&33",
+      "r2": "Psalm 36",
+      "r3": "Matthew 21"
+   }
+},
+ {
+   "date": "20-Jan",
+   "readings": {
+      "r1": "Genesis 34&35",
+      "r2": "Psalm 37",
+      "r3": "Matthew 22"
+   }
+},
+ {
+   "date": "21-Jan",
+   "readings": {
+      "r1": "Genesis 36",
+      "r2": "Psalm 38",
+      "r3": "Matthew 23"
+   }
+},
+ {
+   "date": "22-Jan",
+   "readings": {
+      "r1": "Genesis 37",
+      "r2": "Psalm 39&40",
+      "r3": "Matthew 24"
+   }
+},
+ {
+   "date": "23-Jan",
+   "readings": {
+      "r1": "Genesis 38",
+      "r2": "Psalm 41&43",
+      "r3": "Matthew 25"
+   }
+},
+ {
+   "date": "24-Jan",
+   "readings": {
+      "r1": "Genesis 39&40",
+      "r2": "Psalm 44",
+      "r3": "Matthew 26"
+   }
+},
+ {
+   "date": "25-Jan",
+   "readings": {
+      "r1": "Genesis 41",
+      "r2": "Psalm 45",
+      "r3": "Matthew 27"
+   }
+},
+ {
+   "date": "26-Jan",
+   "readings": {
+      "r1": "Genesis 42&43",
+      "r2": "Psalm 46&48",
+      "r3": "Matthew 28"
+   }
+},
+ {
+   "date": "27-Jan",
+   "readings": {
+      "r1": "Genesis 44&45",
+      "r2": "Psalm 49",
+      "r3": "Romans 1&2"
+   }
+},
+ {
+   "date": "28-Jan",
+   "readings": {
+      "r1": "Genesis 46&47",
+      "r2": "Psalm 50",
+      "r3": "Romans 3&4"
+   }
+},
+ {
+   "date": "29-Jan",
+   "readings": {
+      "r1": "Genesis 48&50",
+      "r2": "Psalm 51&52",
+      "r3": "Romans 5&6"
+   }
+},
+ {
+   "date": "30-Jan",
+   "readings": {
+      "r1": "Exodus 1&2",
+      "r2": "Psalm 53&55",
+      "r3": "Romans 7&8"
+   }
+},
+ {
+   "date": "31-Jan",
+   "readings": {
+      "r1": "Exodus 3&4",
+      "r2": "Psalm 56&57",
+      "r3": "Romans 9"
+   }
+},
+ {
+   "date": "01-Feb",
+   "readings": {
+      "r1": "Exodus 5&6",
+      "r2": "Psalm 58&59",
+      "r3": "Romans 10&11"
+   }
+},
+ {
+   "date": "02-Feb",
+   "readings": {
+      "r1": "Exodus 7&8",
+      "r2": "Psalm 60&61",
+      "r3": "Romans 12"
+   }
+},
+ {
+   "date": "03-Feb",
+   "readings": {
+      "r1": "Exodus 9",
+      "r2": "Psalm 62&63",
+      "r3": "Romans 13&14"
+   }
+},
+ {
+   "date": "04-Feb",
+   "readings": {
+      "r1": "Exodus 10",
+      "r2": "Psalm 64&65",
+      "r3": "Romans 15&16"
+   }
+},
+ {
+   "date": "05-Feb",
+   "readings": {
+      "r1": "Exodus 11&12",
+      "r2": "Psalm 66&67",
+      "r3": "Mark 1"
+   }
+},
+ {
+   "date": "06-Feb",
+   "readings": {
+      "r1": "Exodus 13&14",
+      "r2": "Psalm 68",
+      "r3": "Mark 2"
+   }
+},
+ {
+   "date": "07-Feb",
+   "readings": {
+      "r1": "Exodus 15",
+      "r2": "Psalm 69",
+      "r3": "Mark 3"
+   }
+},
+ {
+   "date": "08-Feb",
+   "readings": {
+      "r1": "Exodus 16",
+      "r2": "Psalm 70&71",
+      "r3": "Mark 4"
+   }
+},
+ {
+   "date": "09-Feb",
+   "readings": {
+      "r1": "Exodus 17&18",
+      "r2": "Psalm 72",
+      "r3": "Mark 5"
+   }
+},
+ {
+   "date": "10-Feb",
+   "readings": {
+      "r1": "Exodus 19&20",
+      "r2": "Psalm 73",
+      "r3": "Mark 6"
+   }
+},
+ {
+   "date": "11-Feb",
+   "readings": {
+      "r1": "Exodus 21",
+      "r2": "Psalm 74",
+      "r3": "Mark 7"
+   }
+},
+ {
+   "date": "12-Feb",
+   "readings": {
+      "r1": "Exodus 22",
+      "r2": "Psalm 75&76",
+      "r3": "Mark 8"
+   }
+},
+ {
+   "date": "13-Feb",
+   "readings": {
+      "r1": "Exodus 23",
+      "r2": "Psalm 77",
+      "r3": "Mark 9"
+   }
+},
+ {
+   "date": "14-Feb",
+   "readings": {
+      "r1": "Exodus 24&25",
+      "r2": "Psalm 78",
+      "r3": "Mark 10"
+   }
+},
+ {
+   "date": "15-Feb",
+   "readings": {
+      "r1": "Exodus 26",
+      "r2": "Psalm 79&80",
+      "r3": "Mark 11"
+   }
+},
+ {
+   "date": "16-Feb",
+   "readings": {
+      "r1": "Exodus 27",
+      "r2": "Psalm 81&82",
+      "r3": "Mark 12"
+   }
+},
+ {
+   "date": "17-Feb",
+   "readings": {
+      "r1": "Exodus 28",
+      "r2": "Psalm 83&84",
+      "r3": "Mark 13"
+   }
+},
+ {
+   "date": "18-Feb",
+   "readings": {
+      "r1": "Exodus 29",
+      "r2": "Psalm 85&86",
+      "r3": "Mark 14"
+   }
+},
+ {
+   "date": "19-Feb",
+   "readings": {
+      "r1": "Exodus 30",
+      "r2": "Psalm 87&88",
+      "r3": "Mark 15&16"
+   }
+},
+ {
+   "date": "20-Feb",
+   "readings": {
+      "r1": "Exodus 31&32",
+      "r2": "Psalm 89",
+      "r3": "1 Corinth. 1&2"
+   }
+},
+ {
+   "date": "21-Feb",
+   "readings": {
+      "r1": "Exodus 33&34",
+      "r2": "Psalm 90&91",
+      "r3": "1 Corinth. 3"
+   }
+},
+ {
+   "date": "22-Feb",
+   "readings": {
+      "r1": "Exodus 35",
+      "r2": "Psalm 92&93",
+      "r3": "1 Corinth. 4&5"
+   }
+},
+ {
+   "date": "23-Feb",
+   "readings": {
+      "r1": "Exodus 36",
+      "r2": "Psalm 94&95",
+      "r3": "1 Corinth. 6"
+   }
+},
+ {
+   "date": "24-Feb",
+   "readings": {
+      "r1": "Exodus 37",
+      "r2": "Psalm 96&99",
+      "r3": "1 Corinth. 7"
+   }
+},
+ {
+   "date": "25-Feb",
+   "readings": {
+      "r1": "Exodus 38",
+      "r2": "Psalm 100&101",
+      "r3": "1 Corinth. 8&9"
+   }
+},
+ {
+   "date": "26-Feb",
+   "readings": {
+      "r1": "Exodus 39&40",
+      "r2": "Psalm 102",
+      "r3": "1 Corinth. 10"
+   }
+},
+ {
+   "date": "27-Feb",
+   "readings": {
+      "r1": "Leviticus 1&2",
+      "r2": "Psalm 103",
+      "r3": "1 Corinth. 11"
+   }
+},
+ {
+   "date": "28-Feb",
+   "readings": {
+      "r1": "Leviticus 3&4",
+      "r2": "Psalm 104",
+      "r3": "1 Corinth. 12&13"
+   }
+},
+ {
+   "date": "29-Feb",
+   "readings": {
+      "r1": "No Readings Today",
+      "r2": "No readings Today",
+      "r3": "No readings Today"
+   }
+},
+ {
+   "date": "01-Mar",
+   "readings": {
+      "r1": "Leviticus 5&6",
+      "r2": "Psalm 105",
+      "r3": "1 Corinth. 14"
+   }
+},
+ {
+   "date": "02-Mar",
+   "readings": {
+      "r1": "Leviticus 7",
+      "r2": "Psalm 106",
+      "r3": "1 Corinth. 15"
+   }
+},
+ {
+   "date": "03-Mar",
+   "readings": {
+      "r1": "Leviticus 8",
+      "r2": "Psalm 107",
+      "r3": "1 Corinth. 16"
+   }
+},
+ {
+   "date": "04-Mar",
+   "readings": {
+      "r1": "Leviticus 9&10",
+      "r2": "Psalm 108&109",
+      "r3": "2 Corinth. 1&2"
+   }
+},
+ {
+   "date": "05-Mar",
+   "readings": {
+      "r1": "Leviticus 11",
+      "r2": "Psalm 110&112",
+      "r3": "2 Corinth. 3&4"
+   }
+},
+ {
+   "date": "06-Mar",
+   "readings": {
+      "r1": "Leviticus 12&13",
+      "r2": "Psalm 113&114",
+      "r3": "2 Corinth. 5 to 7"
+   }
+},
+ {
+   "date": "07-Mar",
+   "readings": {
+      "r1": "Leviticus 14",
+      "r2": "Psalm 115&116",
+      "r3": "2 Corinth. 8&9"
+   }
+},
+ {
+   "date": "08-Mar",
+   "readings": {
+      "r1": "Leviticus 15",
+      "r2": "Psalm 117&118",
+      "r3": "2 Corinth. 10&11"
+   }
+},
+ {
+   "date": "09-Mar",
+   "readings": {
+      "r1": "Leviticus 16",
+      "r2": "Psalm 119:1 to 40",
+      "r3": "2 Corinth. 12&13"
+   }
+},
+ {
+   "date": "10-Mar",
+   "readings": {
+      "r1": "Leviticus 17&18",
+      "r2": "Psalm 119:41 to 80",
+      "r3": "Luke 1"
+   }
+},
+ {
+   "date": "11-Mar",
+   "readings": {
+      "r1": "Leviticus 19",
+      "r2": "Psalm 119:81 to 128",
+      "r3": "Luke 2"
+   }
+},
+ {
+   "date": "12-Mar",
+   "readings": {
+      "r1": "Leviticus 20",
+      "r2": "Psalm 119:129 to 176",
+      "r3": "Luke 3"
+   }
+},
+ {
+   "date": "13-Mar",
+   "readings": {
+      "r1": "Leviticus 21",
+      "r2": "Psalm 120&124",
+      "r3": "Luke 4"
+   }
+},
+ {
+   "date": "14-Mar",
+   "readings": {
+      "r1": "Leviticus 22",
+      "r2": "Psalm 125&127",
+      "r3": "Luke 5"
+   }
+},
+ {
+   "date": "15-Mar",
+   "readings": {
+      "r1": "Leviticus 23",
+      "r2": "Psalm 128&130",
+      "r3": "Luke 6"
+   }
+},
+ {
+   "date": "16-Mar",
+   "readings": {
+      "r1": "Leviticus 24",
+      "r2": "Psalm 131&134",
+      "r3": "Luke 7"
+   }
+},
+ {
+   "date": "17-Mar",
+   "readings": {
+      "r1": "Leviticus 25",
+      "r2": "Psalm 135&136",
+      "r3": "Luke 8"
+   }
+},
+ {
+   "date": "18-Mar",
+   "readings": {
+      "r1": "Leviticus 26",
+      "r2": "Psalm 137&139",
+      "r3": "Luke 9"
+   }
+},
+ {
+   "date": "19-Mar",
+   "readings": {
+      "r1": "Leviticus 27",
+      "r2": "Psalm 140&142",
+      "r3": "Luke 10"
+   }
+},
+ {
+   "date": "20-Mar",
+   "readings": {
+      "r1": "Numbers 1",
+      "r2": "Psalm 143&144",
+      "r3": "Luke 11"
+   }
+},
+ {
+   "date": "21-Mar",
+   "readings": {
+      "r1": "Numbers 2",
+      "r2": "Psalm 145&147",
+      "r3": "Luke 12"
+   }
+},
+ {
+   "date": "22-Mar",
+   "readings": {
+      "r1": "Numbers 3",
+      "r2": "Psalm 148&150",
+      "r3": "Luke 13&14"
+   }
+},
+ {
+   "date": "23-Mar",
+   "readings": {
+      "r1": "Numbers 4",
+      "r2": "Proverbs 1",
+      "r3": "Luke 15"
+   }
+},
+ {
+   "date": "24-Mar",
+   "readings": {
+      "r1": "Numbers 5",
+      "r2": "Proverbs 2",
+      "r3": "Luke 16"
+   }
+},
+ {
+   "date": "25-Mar",
+   "readings": {
+      "r1": "Numbers 6",
+      "r2": "Proverbs 3",
+      "r3": "Luke 17"
+   }
+},
+ {
+   "date": "26-Mar",
+   "readings": {
+      "r1": "Numbers 7",
+      "r2": "Proverbs 4",
+      "r3": "Luke 18"
+   }
+},
+ {
+   "date": "27-Mar",
+   "readings": {
+      "r1": "Numbers 8&9",
+      "r2": "Proverbs 5",
+      "r3": "Luke 19"
+   }
+},
+ {
+   "date": "28-Mar",
+   "readings": {
+      "r1": "Numbers 10",
+      "r2": "Proverbs 6",
+      "r3": "Luke 20"
+   }
+},
+ {
+   "date": "29-Mar",
+   "readings": {
+      "r1": "Numbers 11",
+      "r2": "Proverbs 7",
+      "r3": "Luke 21"
+   }
+},
+ {
+   "date": "30-Mar",
+   "readings": {
+      "r1": "Numbers 12&13",
+      "r2": "Proverbs 8&9",
+      "r3": "Luke 22"
+   }
+},
+ {
+   "date": "31-Mar",
+   "readings": {
+      "r1": "Numbers 14",
+      "r2": "Proverbs 10",
+      "r3": "Luke 23"
+   }
+},
+ {
+   "date": "01-Apr",
+   "readings": {
+      "r1": "Numbers 15",
+      "r2": "Proverbs 11",
+      "r3": "Luke 24"
+   }
+},
+ {
+   "date": "02-Apr",
+   "readings": {
+      "r1": "Numbers 16",
+      "r2": "Proverbs 12",
+      "r3": "Galatians 1&2"
+   }
+},
+ {
+   "date": "03-Apr",
+   "readings": {
+      "r1": "Numbers 17&18",
+      "r2": "Proverbs 13",
+      "r3": "Galatians 3&4"
+   }
+},
+ {
+   "date": "04-Apr",
+   "readings": {
+      "r1": "Numbers 19",
+      "r2": "Proverbs 14",
+      "r3": "Galatians 5&6"
+   }
+},
+ {
+   "date": "05-Apr",
+   "readings": {
+      "r1": "Numbers 20&21",
+      "r2": "Proverbs 15",
+      "r3": "Ephesians 1&2"
+   }
+},
+ {
+   "date": "06-Apr",
+   "readings": {
+      "r1": "Numbers 22&23",
+      "r2": "Proverbs 16",
+      "r3": "Ephesians 3&4"
+   }
+},
+ {
+   "date": "07-Apr",
+   "readings": {
+      "r1": "Numbers 24&25",
+      "r2": "Proverbs 17",
+      "r3": "Ephesians 5&6"
+   }
+},
+ {
+   "date": "08-Apr",
+   "readings": {
+      "r1": "Numbers 26",
+      "r2": "Proverbs 18",
+      "r3": "Philippians 1&2"
+   }
+},
+ {
+   "date": "09-Apr",
+   "readings": {
+      "r1": "Numbers 27",
+      "r2": "Proverbs 19",
+      "r3": "Philippians 3&4"
+   }
+},
+ {
+   "date": "10-Apr",
+   "readings": {
+      "r1": "Numbers 28",
+      "r2": "Proverbs 20",
+      "r3": "John 1"
+   }
+},
+ {
+   "date": "11-Apr",
+   "readings": {
+      "r1": "Numbers 29&30",
+      "r2": "Proverbs 21",
+      "r3": "John 2&3"
+   }
+},
+ {
+   "date": "12-Apr",
+   "readings": {
+      "r1": "Numbers 31",
+      "r2": "Proverbs 22",
+      "r3": "John 4"
+   }
+},
+ {
+   "date": "13-Apr",
+   "readings": {
+      "r1": "Numbers 32",
+      "r2": "Proverbs 23",
+      "r3": "John 5"
+   }
+},
+ {
+   "date": "14-Apr",
+   "readings": {
+      "r1": "Numbers 33",
+      "r2": "Proverbs 24",
+      "r3": "John 6"
+   }
+},
+ {
+   "date": "15-Apr",
+   "readings": {
+      "r1": "Numbers 34",
+      "r2": "Proverbs 25",
+      "r3": "John 7"
+   }
+},
+ {
+   "date": "16-Apr",
+   "readings": {
+      "r1": "Numbers 35",
+      "r2": "Proverbs 26",
+      "r3": "John 8"
+   }
+},
+ {
+   "date": "17-Apr",
+   "readings": {
+      "r1": "Numbers 36",
+      "r2": "Proverbs 27",
+      "r3": "John 9&10"
+   }
+},
+ {
+   "date": "18-Apr",
+   "readings": {
+      "r1": "Deut. 1",
+      "r2": "Proverbs 28",
+      "r3": "John 11"
+   }
+},
+ {
+   "date": "19-Apr",
+   "readings": {
+      "r1": "Deut. 2",
+      "r2": "Proverbs 29",
+      "r3": "John 12"
+   }
+},
+ {
+   "date": "20-Apr",
+   "readings": {
+      "r1": "Deut. 3",
+      "r2": "Proverbs 30",
+      "r3": "John 13&14"
+   }
+},
+ {
+   "date": "21-Apr",
+   "readings": {
+      "r1": "Deut. 4",
+      "r2": "Proverbs 31",
+      "r3": "John 15&16"
+   }
+},
+ {
+   "date": "22-Apr",
+   "readings": {
+      "r1": "Deut. 5",
+      "r2": "Eccles. 1",
+      "r3": "John 17&18"
+   }
+},
+ {
+   "date": "23-Apr",
+   "readings": {
+      "r1": "Deut. 6&7",
+      "r2": "Eccles. 2",
+      "r3": "John 19"
+   }
+},
+ {
+   "date": "24-Apr",
+   "readings": {
+      "r1": "Deut. 8&9",
+      "r2": "Eccles. 3",
+      "r3": "John 20&21"
+   }
+},
+ {
+   "date": "25-Apr",
+   "readings": {
+      "r1": "Deut. 10&11",
+      "r2": "Eccles. 4",
+      "r3": "Acts 1"
+   }
+},
+ {
+   "date": "26-Apr",
+   "readings": {
+      "r1": "Deut. 12",
+      "r2": "Eccles. 5",
+      "r3": "Acts 2"
+   }
+},
+ {
+   "date": "27-Apr",
+   "readings": {
+      "r1": "Deut. 13&14",
+      "r2": "Eccles. 6",
+      "r3": "Acts 3&4"
+   }
+},
+ {
+   "date": "28-Apr",
+   "readings": {
+      "r1": "Deut. 15",
+      "r2": "Eccles. 7",
+      "r3": "Acts 5&6"
+   }
+},
+ {
+   "date": "29-Apr",
+   "readings": {
+      "r1": "Deut. 16",
+      "r2": "Eccles. 8",
+      "r3": "Acts 7"
+   }
+},
+ {
+   "date": "30-Apr",
+   "readings": {
+      "r1": "Deut. 17",
+      "r2": "Eccles. 9",
+      "r3": "Acts 8"
+   }
+},
+ {
+   "date": "01-May",
+   "readings": {
+      "r1": "Deut. 18",
+      "r2": "Eccles. 10",
+      "r3": "Acts 9"
+   }
+},
+ {
+   "date": "02-May",
+   "readings": {
+      "r1": "Deut. 19",
+      "r2": "Eccles. 11",
+      "r3": "Acts 10"
+   }
+},
+ {
+   "date": "03-May",
+   "readings": {
+      "r1": "Deut. 20",
+      "r2": "Eccles. 12",
+      "r3": "Acts 11&12"
+   }
+},
+ {
+   "date": "04-May",
+   "readings": {
+      "r1": "Deut. 21",
+      "r2": "Song 1",
+      "r3": "Acts 13"
+   }
+},
+ {
+   "date": "05-May",
+   "readings": {
+      "r1": "Deut. 22",
+      "r2": "Song 2",
+      "r3": "Acts 14&15"
+   }
+},
+ {
+   "date": "06-May",
+   "readings": {
+      "r1": "Deut. 23",
+      "r2": "Song 3",
+      "r3": "Acts 16&17"
+   }
+},
+ {
+   "date": "07-May",
+   "readings": {
+      "r1": "Deut. 24",
+      "r2": "Song 4",
+      "r3": "Acts 18&19"
+   }
+},
+ {
+   "date": "08-May",
+   "readings": {
+      "r1": "Deut. 25",
+      "r2": "Song 5",
+      "r3": "Acts 20"
+   }
+},
+ {
+   "date": "09-May",
+   "readings": {
+      "r1": "Deut. 26",
+      "r2": "Song 6",
+      "r3": "Acts 21&22"
+   }
+},
+ {
+   "date": "10-May",
+   "readings": {
+      "r1": "Deut. 27",
+      "r2": "Song 7",
+      "r3": "Acts 23&24"
+   }
+},
+ {
+   "date": "11-May",
+   "readings": {
+      "r1": "Deut. 28",
+      "r2": "Song 8",
+      "r3": "Acts 25&26"
+   }
+},
+ {
+   "date": "12-May",
+   "readings": {
+      "r1": "Deut. 29",
+      "r2": "Isaiah 1",
+      "r3": "Acts 27"
+   }
+},
+ {
+   "date": "13-May",
+   "readings": {
+      "r1": "Deut. 30",
+      "r2": "Isaiah 2",
+      "r3": "Acts 28"
+   }
+},
+ {
+   "date": "14-May",
+   "readings": {
+      "r1": "Deut. 31",
+      "r2": "Isaiah 3&4",
+      "r3": "Collos. 1"
+   }
+},
+ {
+   "date": "15-May",
+   "readings": {
+      "r1": "Deut. 32",
+      "r2": "Isaiah 5",
+      "r3": "Collos. 2"
+   }
+},
+ {
+   "date": "16-May",
+   "readings": {
+      "r1": "Deut. 33&34",
+      "r2": "Isaiah 6",
+      "r3": "Collos. 3&4"
+   }
+},
+ {
+   "date": "17-May",
+   "readings": {
+      "r1": "Joshua 1",
+      "r2": "Isaiah 7",
+      "r3": "1 Thess. 1&2"
+   }
+},
+ {
+   "date": "18-May",
+   "readings": {
+      "r1": "Joshua 2",
+      "r2": "Isaiah 8",
+      "r3": "1 Thess. 3&4"
+   }
+},
+ {
+   "date": "19-May",
+   "readings": {
+      "r1": "Joshua 3&4",
+      "r2": "Isaiah 9",
+      "r3": "1 Thess. 5"
+   }
+},
+ {
+   "date": "20-May",
+   "readings": {
+      "r1": "Joshua 5&6",
+      "r2": "Isaiah 10",
+      "r3": "2 Thess. 1&2"
+   }
+},
+ {
+   "date": "21-May",
+   "readings": {
+      "r1": "Joshua 7",
+      "r2": "Isaiah 11",
+      "r3": "2 Thess. 3"
+   }
+},
+ {
+   "date": "22-May",
+   "readings": {
+      "r1": "Joshua 8",
+      "r2": "Isaiah 12",
+      "r3": "1 Tim. 1 to 3"
+   }
+},
+ {
+   "date": "23-May",
+   "readings": {
+      "r1": "Joshua 9",
+      "r2": "Isaiah 13",
+      "r3": "1 Tim. 4&5"
+   }
+},
+ {
+   "date": "24-May",
+   "readings": {
+      "r1": "Joshua 10",
+      "r2": "Isaiah 14",
+      "r3": "1 Tim. 6"
+   }
+},
+ {
+   "date": "25-May",
+   "readings": {
+      "r1": "Joshua 11",
+      "r2": "Isaiah 15",
+      "r3": "2 Tim. 1"
+   }
+},
+ {
+   "date": "26-May",
+   "readings": {
+      "r1": "Joshua 12",
+      "r2": "Isaiah 16",
+      "r3": "2 Tim. 2"
+   }
+},
+ {
+   "date": "27-May",
+   "readings": {
+      "r1": "Joshua 13",
+      "r2": "Isaiah 17&18",
+      "r3": "2 Tim. 3&4"
+   }
+},
+ {
+   "date": "28-May",
+   "readings": {
+      "r1": "Joshua 14",
+      "r2": "Isaiah 19",
+      "r3": "Titus 1-3"
+   }
+},
+ {
+   "date": "29-May",
+   "readings": {
+      "r1": "Joshua 15",
+      "r2": "Isaiah 20&21",
+      "r3": "Philemon"
+   }
+},
+ {
+   "date": "30-May",
+   "readings": {
+      "r1": "Joshua 16",
+      "r2": "Isaiah 22",
+      "r3": "Hebrews 1&2"
+   }
+},
+ {
+   "date": "31-May",
+   "readings": {
+      "r1": "Joshua 17",
+      "r2": "Isaiah 23",
+      "r3": "Hebrews 3-5"
+   }
+},
+ {
+   "date": "01-Jun",
+   "readings": {
+      "r1": "Joshua 18",
+      "r2": "Isaiah 24",
+      "r3": "Hebrews 6&7"
+   }
+},
+ {
+   "date": "02-Jun",
+   "readings": {
+      "r1": "Joshua 19",
+      "r2": "Isaiah 25",
+      "r3": "Hebrews 8&9"
+   }
+},
+ {
+   "date": "03-Jun",
+   "readings": {
+      "r1": "Joshua 20&21",
+      "r2": "Isaiah 26&27",
+      "r3": "Hebrews 10"
+   }
+},
+ {
+   "date": "04-Jun",
+   "readings": {
+      "r1": "Joshua 22",
+      "r2": "Isaiah 28",
+      "r3": "Hebrews 11"
+   }
+},
+ {
+   "date": "05-Jun",
+   "readings": {
+      "r1": "Joshua 23&24",
+      "r2": "Isaiah 29",
+      "r3": "Hebrews 12"
+   }
+},
+ {
+   "date": "06-Jun",
+   "readings": {
+      "r1": "Judges 1",
+      "r2": "Isaiah 30",
+      "r3": "Hebrews 13"
+   }
+},
+ {
+   "date": "07-Jun",
+   "readings": {
+      "r1": "Judges 2&3",
+      "r2": "Isaiah 31",
+      "r3": "James 1"
+   }
+},
+ {
+   "date": "08-Jun",
+   "readings": {
+      "r1": "Judges 4&5",
+      "r2": "Isaiah 32",
+      "r3": "James 2"
+   }
+},
+ {
+   "date": "09-Jun",
+   "readings": {
+      "r1": "Judges 6",
+      "r2": "Isaiah 33",
+      "r3": "James 3&4"
+   }
+},
+ {
+   "date": "10-Jun",
+   "readings": {
+      "r1": "Judges 7&8",
+      "r2": "Isaiah 34",
+      "r3": "James 5"
+   }
+},
+ {
+   "date": "11-Jun",
+   "readings": {
+      "r1": "Judges 9",
+      "r2": "Isaiah 35",
+      "r3": "1 Peter 1"
+   }
+},
+ {
+   "date": "12-Jun",
+   "readings": {
+      "r1": "Judges 10&11",
+      "r2": "Isaiah 36",
+      "r3": "1 Peter 2"
+   }
+},
+ {
+   "date": "13-Jun",
+   "readings": {
+      "r1": "Judges 12&13",
+      "r2": "Isaiah 37",
+      "r3": "1 Peter 3&4&5"
+   }
+},
+ {
+   "date": "14-Jun",
+   "readings": {
+      "r1": "Judges 14&15",
+      "r2": "Isaiah 38",
+      "r3": "2 Peter 1&2"
+   }
+},
+ {
+   "date": "15-Jun",
+   "readings": {
+      "r1": "Judges 16",
+      "r2": "Isaiah 39",
+      "r3": "2 Peter 3"
+   }
+},
+ {
+   "date": "16-Jun",
+   "readings": {
+      "r1": "Judges 17&18",
+      "r2": "Isaiah 40",
+      "r3": "1 John 1&2"
+   }
+},
+ {
+   "date": "17-Jun",
+   "readings": {
+      "r1": "Judges 19",
+      "r2": "Isaiah 41",
+      "r3": "1 John 3&4"
+   }
+},
+ {
+   "date": "18-Jun",
+   "readings": {
+      "r1": "Judges  20",
+      "r2": "Isaiah 42",
+      "r3": "1 John 5"
+   }
+},
+ {
+   "date": "19-Jun",
+   "readings": {
+      "r1": "Judges  21",
+      "r2": "Isaiah 43",
+      "r3": "2&3 John"
+   }
+},
+ {
+   "date": "20-Jun",
+   "readings": {
+      "r1": "Ruth 1&2",
+      "r2": "Isaiah 44",
+      "r3": "Jude"
+   }
+},
+ {
+   "date": "21-Jun",
+   "readings": {
+      "r1": "Ruth 3&4",
+      "r2": "Isaiah 45",
+      "r3": "Revelation 1&2"
+   }
+},
+ {
+   "date": "22-Jun",
+   "readings": {
+      "r1": "1 Sam. 1",
+      "r2": "Isaiah  46&47",
+      "r3": "Revelation 3&4"
+   }
+},
+ {
+   "date": "23-Jun",
+   "readings": {
+      "r1": "1 Sam. 2",
+      "r2": "Isaiah  48",
+      "r3": "Revelation 5&6"
+   }
+},
+ {
+   "date": "24-Jun",
+   "readings": {
+      "r1": "1 Sam. 3",
+      "r2": "Isaiah  49",
+      "r3": "Revelation 7&8&9"
+   }
+},
+ {
+   "date": "25-Jun",
+   "readings": {
+      "r1": "1 Sam. 4",
+      "r2": "Isaiah  50",
+      "r3": "Revelation 10&11"
+   }
+},
+ {
+   "date": "26-Jun",
+   "readings": {
+      "r1": "1 Sam. 5&6",
+      "r2": "Isaiah  51",
+      "r3": "Revelation 12&13"
+   }
+},
+ {
+   "date": "27-Jun",
+   "readings": {
+      "r1": "1 Sam. 7&8",
+      "r2": "Isaiah  52",
+      "r3": "Revelation 14"
+   }
+},
+ {
+   "date": "28-Jun",
+   "readings": {
+      "r1": "1 Sam. 9",
+      "r2": "Isaiah  53",
+      "r3": "Revelation 15&16"
+   }
+},
+ {
+   "date": "29-Jun",
+   "readings": {
+      "r1": "1 Sam. 10",
+      "r2": "Isaiah  54",
+      "r3": "Revelation 17&18"
+   }
+},
+ {
+   "date": "30-Jun",
+   "readings": {
+      "r1": "1 Sam. 11&12",
+      "r2": "Isaiah  55",
+      "r3": "Revelation 19&20"
+   }
+},
+ {
+   "date": "01-Jul",
+   "readings": {
+      "r1": "1 Sam. 13",
+      "r2": "Isaiah 56&57",
+      "r3": "Revelation 21&22"
+   }
+},
+ {
+   "date": "02-Jul",
+   "readings": {
+      "r1": "1 Sam. 14",
+      "r2": "Isaiah 58",
+      "r3": "Matthew 1&2"
+   }
+},
+ {
+   "date": "03-Jul",
+   "readings": {
+      "r1": "1 Sam. 15",
+      "r2": "Isaiah 59",
+      "r3": "Matthew 3&4"
+   }
+},
+ {
+   "date": "04-Jul",
+   "readings": {
+      "r1": "1 Sam. 16",
+      "r2": "Isaiah 60",
+      "r3": "Matthew 5"
+   }
+},
+ {
+   "date": "05-Jul",
+   "readings": {
+      "r1": "1 Sam. 17",
+      "r2": "Isaiah 61",
+      "r3": "Matthew 6"
+   }
+},
+ {
+   "date": "06-Jul",
+   "readings": {
+      "r1": "1 Sam. 18",
+      "r2": "Isaiah 62",
+      "r3": "Matthew 7"
+   }
+},
+ {
+   "date": "07-Jul",
+   "readings": {
+      "r1": "1 Sam. 19",
+      "r2": "Isaiah 63",
+      "r3": "Matthew 8"
+   }
+},
+ {
+   "date": "08-Jul",
+   "readings": {
+      "r1": "1 Sam. 20",
+      "r2": "Isaiah 64",
+      "r3": "Matthew 9"
+   }
+},
+ {
+   "date": "09-Jul",
+   "readings": {
+      "r1": "1 Sam. 21&22",
+      "r2": "Isaiah 65",
+      "r3": "Matthew 10"
+   }
+},
+ {
+   "date": "10-Jul",
+   "readings": {
+      "r1": "1 Sam. 23",
+      "r2": "Isaiah 66",
+      "r3": "Matthew 11"
+   }
+},
+ {
+   "date": "11-Jul",
+   "readings": {
+      "r1": "1 Sam. 24",
+      "r2": "Jeremiah 1",
+      "r3": "Matthew 12"
+   }
+},
+ {
+   "date": "12-Jul",
+   "readings": {
+      "r1": "1 Sam. 25",
+      "r2": "Jeremiah 2",
+      "r3": "Matthew 13"
+   }
+},
+ {
+   "date": "13-Jul",
+   "readings": {
+      "r1": "1 Sam. 26&27",
+      "r2": "Jeremiah 3",
+      "r3": "Matthew 14"
+   }
+},
+ {
+   "date": "14-Jul",
+   "readings": {
+      "r1": "1 Sam. 28",
+      "r2": "Jeremiah 4",
+      "r3": "Matthew 15"
+   }
+},
+ {
+   "date": "15-Jul",
+   "readings": {
+      "r1": "1 Sam. 29&30",
+      "r2": "Jeremiah 5",
+      "r3": "Matthew 16"
+   }
+},
+ {
+   "date": "16-Jul",
+   "readings": {
+      "r1": "1 Sam. 31",
+      "r2": "Jeremiah 6",
+      "r3": "Matthew 17"
+   }
+},
+ {
+   "date": "17-Jul",
+   "readings": {
+      "r1": "2 Sam. 1",
+      "r2": "Jeremiah 7",
+      "r3": "Matthew 18"
+   }
+},
+ {
+   "date": "18-Jul",
+   "readings": {
+      "r1": "2 Sam. 2",
+      "r2": "Jeremiah 8",
+      "r3": "Matthew 19"
+   }
+},
+ {
+   "date": "19-Jul",
+   "readings": {
+      "r1": "2 Sam. 3",
+      "r2": "Jeremiah 9",
+      "r3": "Matthew 20"
+   }
+},
+ {
+   "date": "20-Jul",
+   "readings": {
+      "r1": "2 Sam. 4&5",
+      "r2": "Jeremiah 10",
+      "r3": "Matthew 21"
+   }
+},
+ {
+   "date": "21-Jul",
+   "readings": {
+      "r1": "2 Sam. 6",
+      "r2": "Jeremiah 11",
+      "r3": "Matthew 22"
+   }
+},
+ {
+   "date": "22-Jul",
+   "readings": {
+      "r1": "2 Sam. 7",
+      "r2": "Jeremiah 12",
+      "r3": "Matthew 23"
+   }
+},
+ {
+   "date": "23-Jul",
+   "readings": {
+      "r1": "2 Sam. 8&9",
+      "r2": "Jeremiah 13",
+      "r3": "Matthew 24"
+   }
+},
+ {
+   "date": "24-Jul",
+   "readings": {
+      "r1": "2 Sam. 10",
+      "r2": "Jeremiah 14",
+      "r3": "Matthew 25"
+   }
+},
+ {
+   "date": "25-Jul",
+   "readings": {
+      "r1": "2 Sam. 11",
+      "r2": "Jeremiah 15",
+      "r3": "Matthew 26"
+   }
+},
+ {
+   "date": "26-Jul",
+   "readings": {
+      "r1": "2 Sam. 12",
+      "r2": "Jeremiah 16",
+      "r3": "Matthew 27"
+   }
+},
+ {
+   "date": "27-Jul",
+   "readings": {
+      "r1": "2 Sam. 13",
+      "r2": "Jeremiah 17",
+      "r3": "Matthew 27"
+   }
+},
+ {
+   "date": "28-Jul",
+   "readings": {
+      "r1": "2 Sam. 14",
+      "r2": "Jeremiah 18",
+      "r3": "Romans 1&2"
+   }
+},
+ {
+   "date": "29-Jul",
+   "readings": {
+      "r1": "2 Sam. 15",
+      "r2": "Jeremiah 19",
+      "r3": "Romans 3&4"
+   }
+},
+ {
+   "date": "30-Jul",
+   "readings": {
+      "r1": "2 Sam. 16",
+      "r2": "Jeremiah 20",
+      "r3": "Romans 5&6"
+   }
+},
+ {
+   "date": "31-Jul",
+   "readings": {
+      "r1": "2 Sam. 17",
+      "r2": "Jeremiah 21",
+      "r3": "Romans 7&8"
+   }
+},
+ {
+   "date": "01-Aug",
+   "readings": {
+      "r1": "2 Sam. 18",
+      "r2": "Jeremiah 22",
+      "r3": "Romans 9"
+   }
+},
+ {
+   "date": "02-Aug",
+   "readings": {
+      "r1": "2 Sam. 19",
+      "r2": "Jeremiah 23",
+      "r3": "Romans 10&11"
+   }
+},
+ {
+   "date": "03-Aug",
+   "readings": {
+      "r1": "2 Sam. 20&21",
+      "r2": "Jeremiah 24",
+      "r3": "Romans 12"
+   }
+},
+ {
+   "date": "04-Aug",
+   "readings": {
+      "r1": "2 Sam. 22",
+      "r2": "Jeremiah 25",
+      "r3": "Romans 13&14"
+   }
+},
+ {
+   "date": "05-Aug",
+   "readings": {
+      "r1": "2 Sam. 23",
+      "r2": "Jeremiah 26",
+      "r3": "Romans 15&16"
+   }
+},
+ {
+   "date": "06-Aug",
+   "readings": {
+      "r1": "2 Sam. 24",
+      "r2": "Jeremiah 27",
+      "r3": "Mark 1"
+   }
+},
+ {
+   "date": "07-Aug",
+   "readings": {
+      "r1": "1 Kings 1",
+      "r2": "Jeremiah 28",
+      "r3": "Mark 2"
+   }
+},
+ {
+   "date": "08-Aug",
+   "readings": {
+      "r1": "1 Kings 2",
+      "r2": "Jeremiah 29",
+      "r3": "Mark 3"
+   }
+},
+ {
+   "date": "09-Aug",
+   "readings": {
+      "r1": "1 Kings 3",
+      "r2": "Jeremiah 30",
+      "r3": "Mark 4"
+   }
+},
+ {
+   "date": "10-Aug",
+   "readings": {
+      "r1": "1 Kings 4&5",
+      "r2": "Jeremiah 31",
+      "r3": "Mark 5"
+   }
+},
+ {
+   "date": "11-Aug",
+   "readings": {
+      "r1": "1 Kings 6",
+      "r2": "Jeremiah 32",
+      "r3": "Mark 6"
+   }
+},
+ {
+   "date": "12-Aug",
+   "readings": {
+      "r1": "1 Kings 7",
+      "r2": "Jeremiah 33",
+      "r3": "Mark 7"
+   }
+},
+ {
+   "date": "13-Aug",
+   "readings": {
+      "r1": "1 Kings 8&27",
+      "r2": "Jeremiah 34",
+      "r3": "Mark 8"
+   }
+},
+ {
+   "date": "14-Aug",
+   "readings": {
+      "r1": "1 Kings 9",
+      "r2": "Jeremiah 35",
+      "r3": "Mark 9"
+   }
+},
+ {
+   "date": "15-Aug",
+   "readings": {
+      "r1": "1 Kings 10",
+      "r2": "Jeremiah 36",
+      "r3": "Mark 10"
+   }
+},
+ {
+   "date": "16-Aug",
+   "readings": {
+      "r1": "1 Kings 11",
+      "r2": "Jeremiah 37",
+      "r3": "Mark 11"
+   }
+},
+ {
+   "date": "17-Aug",
+   "readings": {
+      "r1": "1 Kings 12",
+      "r2": "Jeremiah 38",
+      "r3": "Mark 12"
+   }
+},
+ {
+   "date": "18-Aug",
+   "readings": {
+      "r1": "1 Kings 13",
+      "r2": "Jeremiah 39",
+      "r3": "Mark 13"
+   }
+},
+ {
+   "date": "19-Aug",
+   "readings": {
+      "r1": "1 Kings 14",
+      "r2": "Jeremiah 40",
+      "r3": "Mark 14"
+   }
+},
+ {
+   "date": "20-Aug",
+   "readings": {
+      "r1": "1 Kings 15",
+      "r2": "Jeremiah 41",
+      "r3": "Mark 15"
+   }
+},
+ {
+   "date": "21-Aug",
+   "readings": {
+      "r1": "1 Kings 16",
+      "r2": "Jeremiah 42",
+      "r3": "Mark 16"
+   }
+},
+ {
+   "date": "22-Aug",
+   "readings": {
+      "r1": "1 Kings 17",
+      "r2": "Jeremiah 43",
+      "r3": "1 Corin. 1&2"
+   }
+},
+ {
+   "date": "23-Aug",
+   "readings": {
+      "r1": "1 Kings 18",
+      "r2": "Jeremiah 44",
+      "r3": "1 Corin. 3"
+   }
+},
+ {
+   "date": "24-Aug",
+   "readings": {
+      "r1": "1 Kings 19",
+      "r2": "Jeremiah 45&46",
+      "r3": "1 Corin. 4&5"
+   }
+},
+ {
+   "date": "25-Aug",
+   "readings": {
+      "r1": "1 Kings 20",
+      "r2": "Jeremiah 47",
+      "r3": "1 Corin. 6"
+   }
+},
+ {
+   "date": "26-Aug",
+   "readings": {
+      "r1": "1 Kings 21",
+      "r2": "Jeremiah 48",
+      "r3": "1 Corin. 7"
+   }
+},
+ {
+   "date": "27-Aug",
+   "readings": {
+      "r1": "1 Kings 22",
+      "r2": "Jeremiah 49",
+      "r3": "1 Corin. 8&9"
+   }
+},
+ {
+   "date": "28-Aug",
+   "readings": {
+      "r1": "2 Kings 1&2",
+      "r2": "Jeremiah 50",
+      "r3": "1 Corin. 10"
+   }
+},
+ {
+   "date": "29-Aug",
+   "readings": {
+      "r1": "2 Kings 3",
+      "r2": "Jeremiah 51",
+      "r3": "1 Corin. 11"
+   }
+},
+ {
+   "date": "30-Aug",
+   "readings": {
+      "r1": "2 Kings 4",
+      "r2": "Jeremiah 52",
+      "r3": "1 Corin. 12&13"
+   }
+},
+ {
+   "date": "31-Aug",
+   "readings": {
+      "r1": "2 Kings 5",
+      "r2": "Lament. 1",
+      "r3": "1 Corin. 14"
+   }
+},
+ {
+   "date": "01-Sep",
+   "readings": {
+      "r1": "2 Kings 6",
+      "r2": "Lament. 2",
+      "r3": "1 Corin. 6&7"
+   }
+},
+ {
+   "date": "02-Sep",
+   "readings": {
+      "r1": "2 Kings 7",
+      "r2": "Lament. 3",
+      "r3": "1 Corin. 8&9"
+   }
+},
+ {
+   "date": "03-Sep",
+   "readings": {
+      "r1": "2 Kings 8",
+      "r2": "Lament. 4&27",
+      "r3": "2 Corin. 1&2"
+   }
+},
+ {
+   "date": "04-Sep",
+   "readings": {
+      "r1": "2 Kings 9",
+      "r2": "Lament. 5",
+      "r3": "2 Corin. 3&4"
+   }
+},
+ {
+   "date": "05-Sep",
+   "readings": {
+      "r1": "2 Kings 10",
+      "r2": "Ezekiel 1",
+      "r3": "2 Corin. 5 to 7"
+   }
+},
+ {
+   "date": "06-Sep",
+   "readings": {
+      "r1": "2 Kings 11&12",
+      "r2": "Ezekiel 2",
+      "r3": "2 Corin. 8&9"
+   }
+},
+ {
+   "date": "07-Sep",
+   "readings": {
+      "r1": "2 Kings 13",
+      "r2": "Ezekiel 3",
+      "r3": "2 Corin. 10&11"
+   }
+},
+ {
+   "date": "08-Sep",
+   "readings": {
+      "r1": "2 Kings 14",
+      "r2": "Ezekiel 4",
+      "r3": "2 Corin. 12&13"
+   }
+},
+ {
+   "date": "09-Sep",
+   "readings": {
+      "r1": "2 Kings 15",
+      "r2": "Ezekiel 5",
+      "r3": "Luke 1"
+   }
+},
+ {
+   "date": "10-Sep",
+   "readings": {
+      "r1": "2 Kings 16",
+      "r2": "Ezekiel 6",
+      "r3": "Luke 2"
+   }
+},
+ {
+   "date": "11-Sep",
+   "readings": {
+      "r1": "2 Kings 17",
+      "r2": "Ezekiel 7",
+      "r3": "Luke 3"
+   }
+},
+ {
+   "date": "12-Sep",
+   "readings": {
+      "r1": "2 Kings 18",
+      "r2": "Ezekiel 8",
+      "r3": "Luke 4"
+   }
+},
+ {
+   "date": "13-Sep",
+   "readings": {
+      "r1": "2 Kings 19",
+      "r2": "Ezekiel 9",
+      "r3": "Luke 5"
+   }
+},
+ {
+   "date": "14-Sep",
+   "readings": {
+      "r1": "2 Kings 20",
+      "r2": "Ezekiel 10",
+      "r3": "Luke 6"
+   }
+},
+ {
+   "date": "15-Sep",
+   "readings": {
+      "r1": "2 Kings 21",
+      "r2": "Ezekiel 11",
+      "r3": "Luke 7"
+   }
+},
+ {
+   "date": "16-Sep",
+   "readings": {
+      "r1": "2 Kings 22&23",
+      "r2": "Ezekiel 12",
+      "r3": "Luke 8"
+   }
+},
+ {
+   "date": "17-Sep",
+   "readings": {
+      "r1": "2 Kings 24&25",
+      "r2": "Ezekiel 13",
+      "r3": "Luke 9"
+   }
+},
+ {
+   "date": "18-Sep",
+   "readings": {
+      "r1": "1 Chron. 1",
+      "r2": "Ezekiel 14",
+      "r3": "Luke 10"
+   }
+},
+ {
+   "date": "19-Sep",
+   "readings": {
+      "r1": "1 Chron. 2",
+      "r2": "Ezekiel 15",
+      "r3": "Luke 11"
+   }
+},
+ {
+   "date": "20-Sep",
+   "readings": {
+      "r1": "1 Chron. 3",
+      "r2": "Ezekiel 16",
+      "r3": "Luke 12"
+   }
+},
+ {
+   "date": "21-Sep",
+   "readings": {
+      "r1": "1 Chron. 4",
+      "r2": "Ezekiel 17",
+      "r3": "Luke 13&14"
+   }
+},
+ {
+   "date": "22-Sep",
+   "readings": {
+      "r1": "1 1 Chron. 5",
+      "r2": "Ezekiel 18",
+      "r3": "Luke 15"
+   }
+},
+ {
+   "date": "23-Sep",
+   "readings": {
+      "r1": "1 1 Chron. 6",
+      "r2": "Ezekiel 19",
+      "r3": "Luke 16"
+   }
+},
+ {
+   "date": "24-Sep",
+   "readings": {
+      "r1": "1 Chron. 7",
+      "r2": "Ezekiel 20",
+      "r3": "Luke 17"
+   }
+},
+ {
+   "date": "25-Sep",
+   "readings": {
+      "r1": "1 Chron. 8",
+      "r2": "Ezekiel 21",
+      "r3": "Luke 18"
+   }
+},
+ {
+   "date": "26-Sep",
+   "readings": {
+      "r1": "1 Chron. 9",
+      "r2": "Ezekiel 22",
+      "r3": "Luke 19"
+   }
+},
+ {
+   "date": "27-Sep",
+   "readings": {
+      "r1": "1 Chron. 10",
+      "r2": "Ezekiel 23",
+      "r3": "Luke 20"
+   }
+},
+ {
+   "date": "28-Sep",
+   "readings": {
+      "r1": "1 Chron. 11",
+      "r2": "Ezekiel 24",
+      "r3": "Luke 21"
+   }
+},
+ {
+   "date": "29-Sep",
+   "readings": {
+      "r1": "1 Chron. 12",
+      "r2": "Ezekiel 25",
+      "r3": "Luke 22"
+   }
+},
+ {
+   "date": "30-Sep",
+   "readings": {
+      "r1": "1 Chron. 13&14",
+      "r2": "Ezekiel 26",
+      "r3": "Luke 23"
+   }
+},
+ {
+   "date": "01-Oct",
+   "readings": {
+      "r1": "1 Chron. 15",
+      "r2": "Ezekiel 27",
+      "r3": "Luke 24"
+   }
+},
+ {
+   "date": "02-Oct",
+   "readings": {
+      "r1": "1 Chron. 16",
+      "r2": "Ezekiel 28",
+      "r3": "Galatians 1&2"
+   }
+},
+ {
+   "date": "03-Oct",
+   "readings": {
+      "r1": "1 Chron. 17",
+      "r2": "Ezekiel 29",
+      "r3": "Galatians 3&4"
+   }
+},
+ {
+   "date": "04-Oct",
+   "readings": {
+      "r1": "1 Chron. 18&19",
+      "r2": "Ezekiel 30",
+      "r3": "Galatians 5&6"
+   }
+},
+ {
+   "date": "05-Oct",
+   "readings": {
+      "r1": "1 Chron. 20&21",
+      "r2": "Ezekiel 31",
+      "r3": "Ephesians 1&2"
+   }
+},
+ {
+   "date": "06-Oct",
+   "readings": {
+      "r1": "1 Chron. 22",
+      "r2": "Ezekiel 32",
+      "r3": "Ephesians 3&4"
+   }
+},
+ {
+   "date": "07-Oct",
+   "readings": {
+      "r1": "1 Chron. 23",
+      "r2": "Ezekiel 33",
+      "r3": "Ephesians 5&6"
+   }
+},
+ {
+   "date": "08-Oct",
+   "readings": {
+      "r1": "1 Chron. 24&25",
+      "r2": "Ezekiel 34",
+      "r3": "Philippians 1&2"
+   }
+},
+ {
+   "date": "09-Oct",
+   "readings": {
+      "r1": "1 Chron. 26",
+      "r2": "Ezekiel 35",
+      "r3": "Philippians 3&4"
+   }
+},
+ {
+   "date": "10-Oct",
+   "readings": {
+      "r1": "1 Chron. 27",
+      "r2": "Ezekiel 36",
+      "r3": "John 1"
+   }
+},
+ {
+   "date": "11-Oct",
+   "readings": {
+      "r1": "1 Chron. 28",
+      "r2": "Ezekiel 37",
+      "r3": "John 2&3"
+   }
+},
+ {
+   "date": "12-Oct",
+   "readings": {
+      "r1": "1 Chron. 29",
+      "r2": "Ezekiel 38",
+      "r3": "John 4"
+   }
+},
+ {
+   "date": "13-Oct",
+   "readings": {
+      "r1": "2 Chron. 1&2",
+      "r2": "Ezekiel 39",
+      "r3": "John 5"
+   }
+},
+ {
+   "date": "14-Oct",
+   "readings": {
+      "r1": "2 Chron. 3&4",
+      "r2": "Ezekiel 40",
+      "r3": "John 6"
+   }
+},
+ {
+   "date": "15-Oct",
+   "readings": {
+      "r1": "2 Chron. 5&6",
+      "r2": "Ezekiel 41",
+      "r3": "John 7"
+   }
+},
+ {
+   "date": "16-Oct",
+   "readings": {
+      "r1": "2 Chron. 7",
+      "r2": "Ezekiel 42",
+      "r3": "John 8"
+   }
+},
+ {
+   "date": "17-Oct",
+   "readings": {
+      "r1": "2 Chron. 8",
+      "r2": "Ezekiel 43",
+      "r3": "John 9&10"
+   }
+},
+ {
+   "date": "18-Oct",
+   "readings": {
+      "r1": "2 Chron. 9",
+      "r2": "Ezekiel 44",
+      "r3": "John 11"
+   }
+},
+ {
+   "date": "19-Oct",
+   "readings": {
+      "r1": "2 Chron. 10&11",
+      "r2": "Ezekiel 45",
+      "r3": "John 12"
+   }
+},
+ {
+   "date": "20-Oct",
+   "readings": {
+      "r1": "2 Chron. 12&13",
+      "r2": "Ezekiel 46",
+      "r3": "John 13&14"
+   }
+},
+ {
+   "date": "21-Oct",
+   "readings": {
+      "r1": "2 Chron. 14&15",
+      "r2": "Ezekiel 47",
+      "r3": "John 15&16"
+   }
+},
+ {
+   "date": "22-Oct",
+   "readings": {
+      "r1": "2 Chron. 16&17",
+      "r2": "Ezekiel 48",
+      "r3": "John 17&18"
+   }
+},
+ {
+   "date": "23-Oct",
+   "readings": {
+      "r1": "2 Chron. 18&19",
+      "r2": "Daniel 1",
+      "r3": "John 19"
+   }
+},
+ {
+   "date": "24-Oct",
+   "readings": {
+      "r1": "2 Chron. 20",
+      "r2": "Daniel 2",
+      "r3": "John 20"
+   }
+},
+ {
+   "date": "25-Oct",
+   "readings": {
+      "r1": "2 Chron. 21&22",
+      "r2": "Daniel 3",
+      "r3": "Acts 1"
+   }
+},
+ {
+   "date": "26-Oct",
+   "readings": {
+      "r1": "2 Chron. 23",
+      "r2": "Daniel 4",
+      "r3": "Acts 2"
+   }
+},
+ {
+   "date": "27-Oct",
+   "readings": {
+      "r1": "2 Chron. 24",
+      "r2": "Daniel 5",
+      "r3": "Acts 3&4"
+   }
+},
+ {
+   "date": "28-Oct",
+   "readings": {
+      "r1": "2 Chron. 25",
+      "r2": "Daniel 6",
+      "r3": "Acts 5&6"
+   }
+},
+ {
+   "date": "29-Oct",
+   "readings": {
+      "r1": "2 Chron. 26&27",
+      "r2": "Daniel 7",
+      "r3": "Acts 7"
+   }
+},
+ {
+   "date": "30-Oct",
+   "readings": {
+      "r1": "2 Chron. 28",
+      "r2": "Daniel 8",
+      "r3": "Acts 8"
+   }
+},
+ {
+   "date": "31-Oct",
+   "readings": {
+      "r1": "2 Chron. 29",
+      "r2": "Daniel 9",
+      "r3": "Acts 9"
+   }
+},
+ {
+   "date": "01-Nov",
+   "readings": {
+      "r1": "2 Chron. 30",
+      "r2": "Daniel 10",
+      "r3": "Acts 10"
+   }
+},
+ {
+   "date": "02-Nov",
+   "readings": {
+      "r1": "2 Chron. 31",
+      "r2": "Daniel 11",
+      "r3": "Acts 11&12"
+   }
+},
+ {
+   "date": "03-Nov",
+   "readings": {
+      "r1": "2 Chron. 32",
+      "r2": "Daniel 12",
+      "r3": "Acts 13"
+   }
+},
+ {
+   "date": "04-Nov",
+   "readings": {
+      "r1": "2 Chron. 33&19",
+      "r2": "Hosea 1",
+      "r3": "Acts 14&15"
+   }
+},
+ {
+   "date": "05-Nov",
+   "readings": {
+      "r1": "2 Chron. 34&21",
+      "r2": "Hosea 2",
+      "r3": "Acts 16&17"
+   }
+},
+ {
+   "date": "06-Nov",
+   "readings": {
+      "r1": "2 Chron. 35",
+      "r2": "Hosea 3",
+      "r3": "Acts 18&19"
+   }
+},
+ {
+   "date": "07-Nov",
+   "readings": {
+      "r1": "2 Chron. 36",
+      "r2": "Hosea 4",
+      "r3": "Acts 20"
+   }
+},
+ {
+   "date": "08-Nov",
+   "readings": {
+      "r1": "Ezra 1&2",
+      "r2": "Hosea 5",
+      "r3": "Acts 21&22"
+   }
+},
+ {
+   "date": "09-Nov",
+   "readings": {
+      "r1": "Ezra 3&4",
+      "r2": "Hosea 6",
+      "r3": "Acts 23&24"
+   }
+},
+ {
+   "date": "10-Nov",
+   "readings": {
+      "r1": "Ezra 5&6",
+      "r2": "Hosea 7",
+      "r3": "Acts 25&26"
+   }
+},
+ {
+   "date": "11-Nov",
+   "readings": {
+      "r1": "Ezra 7",
+      "r2": "Hosea 8",
+      "r3": "Acts 27"
+   }
+},
+ {
+   "date": "12-Nov",
+   "readings": {
+      "r1": "Ezra 8",
+      "r2": "Hosea 9",
+      "r3": "Acts 28"
+   }
+},
+ {
+   "date": "13-Nov",
+   "readings": {
+      "r1": "Ezra 9",
+      "r2": "Hosea 10",
+      "r3": "Colossians 1"
+   }
+},
+ {
+   "date": "14-Nov",
+   "readings": {
+      "r1": "Ezra 10",
+      "r2": "Hosea 11",
+      "r3": "Colossians 2"
+   }
+},
+ {
+   "date": "15-Nov",
+   "readings": {
+      "r1": "Nehemiah 1&2",
+      "r2": "Hosea 12",
+      "r3": "Colossians 3&4"
+   }
+},
+ {
+   "date": "16-Nov",
+   "readings": {
+      "r1": "Nehemiah 3",
+      "r2": "Hosea 13",
+      "r3": "1 Thess 1&2"
+   }
+},
+ {
+   "date": "17-Nov",
+   "readings": {
+      "r1": "Nehemiah 4",
+      "r2": "Hosea 14",
+      "r3": "1 Thess 3&4"
+   }
+},
+ {
+   "date": "18-Nov",
+   "readings": {
+      "r1": "Nehemiah 5&6",
+      "r2": "Joel 1",
+      "r3": "1 Thess 5"
+   }
+},
+ {
+   "date": "19-Nov",
+   "readings": {
+      "r1": "Nehemiah 7",
+      "r2": "Joel 2",
+      "r3": "2 Thess 1&2"
+   }
+},
+ {
+   "date": "20-Nov",
+   "readings": {
+      "r1": "Nehemiah 8",
+      "r2": "Joel 3",
+      "r3": "2 Thess 3"
+   }
+},
+ {
+   "date": "21-Nov",
+   "readings": {
+      "r1": "Nehemiah 9",
+      "r2": "Amos 1",
+      "r3": "1 Tim. 1&3"
+   }
+},
+ {
+   "date": "22-Nov",
+   "readings": {
+      "r1": "Nehemiah 10",
+      "r2": "Amos 2",
+      "r3": "1 Tim. 4&5"
+   }
+},
+ {
+   "date": "23-Nov",
+   "readings": {
+      "r1": "Nehemiah 11",
+      "r2": "Amos 3",
+      "r3": "1 Tim. 6"
+   }
+},
+ {
+   "date": "24-Nov",
+   "readings": {
+      "r1": "Nehemiah 12",
+      "r2": "Amos 4",
+      "r3": "2 Tim. 1"
+   }
+},
+ {
+   "date": "25-Nov",
+   "readings": {
+      "r1": "Nehemiah 13",
+      "r2": "Amos 5",
+      "r3": "2 Tim. 2"
+   }
+},
+ {
+   "date": "26-Nov",
+   "readings": {
+      "r1": "Esther 1",
+      "r2": "Amos 6",
+      "r3": "2 Tim. 3&4"
+   }
+},
+ {
+   "date": "27-Nov",
+   "readings": {
+      "r1": "Esther 2",
+      "r2": "Amos 7",
+      "r3": "Titus"
+   }
+},
+ {
+   "date": "28-Nov",
+   "readings": {
+      "r1": "Esther 3&4",
+      "r2": "Amos 8",
+      "r3": "Philemon"
+   }
+},
+ {
+   "date": "29-Nov",
+   "readings": {
+      "r1": "Esther 5&6",
+      "r2": "Amos 9",
+      "r3": "Hebrews 1&2"
+   }
+},
+ {
+   "date": "30-Nov",
+   "readings": {
+      "r1": "Esther 7&8",
+      "r2": "Obadiah",
+      "r3": "Hebrews 3&5"
+   }
+},
+ {
+   "date": "01-Dec",
+   "readings": {
+      "r1": "Esther 9&10",
+      "r2": "Jonah 1",
+      "r3": "Hebrews 6&7"
+   }
+},
+ {
+   "date": "02-Dec",
+   "readings": {
+      "r1": "Job 1&2",
+      "r2": "Jonah 2&3",
+      "r3": "Hebrews 8&9"
+   }
+},
+ {
+   "date": "03-Dec",
+   "readings": {
+      "r1": "Job 3&4",
+      "r2": "Jonah 4",
+      "r3": "Hebrews 10"
+   }
+},
+ {
+   "date": "04-Dec",
+   "readings": {
+      "r1": "Job 5",
+      "r2": "Micah 1",
+      "r3": "Hebrews 11"
+   }
+},
+ {
+   "date": "05-Dec",
+   "readings": {
+      "r1": "Job 6&7",
+      "r2": "Micah 2",
+      "r3": "Hebrews 12"
+   }
+},
+ {
+   "date": "06-Dec",
+   "readings": {
+      "r1": "Job 8",
+      "r2": "Micah 3&4",
+      "r3": "Hebrews 13"
+   }
+},
+ {
+   "date": "07-Dec",
+   "readings": {
+      "r1": "Job 9",
+      "r2": "Micah 5",
+      "r3": "James 1"
+   }
+},
+ {
+   "date": "08-Dec",
+   "readings": {
+      "r1": "Job 10",
+      "r2": "Micah 6",
+      "r3": "James 2"
+   }
+},
+ {
+   "date": "09-Dec",
+   "readings": {
+      "r1": "Job 11",
+      "r2": "Micah 7",
+      "r3": "James 3&4"
+   }
+},
+ {
+   "date": "10-Dec",
+   "readings": {
+      "r1": "Job 12",
+      "r2": "Nahum 1&2",
+      "r3": "James 5"
+   }
+},
+ {
+   "date": "11-Dec",
+   "readings": {
+      "r1": "Job 13",
+      "r2": "Nahum 3",
+      "r3": "1 Peter 1"
+   }
+},
+ {
+   "date": "12-Dec",
+   "readings": {
+      "r1": "Job 14",
+      "r2": "Habakkuk 1",
+      "r3": "1 Peter 2"
+   }
+},
+ {
+   "date": "13-Dec",
+   "readings": {
+      "r1": "Job 15",
+      "r2": "Habakkuk 2",
+      "r3": "1 Peter 3&5"
+   }
+},
+ {
+   "date": "14-Dec",
+   "readings": {
+      "r1": "Job 16&17",
+      "r2": "Habakkuk 3",
+      "r3": "2 Peter 1&2"
+   }
+},
+ {
+   "date": "15-Dec",
+   "readings": {
+      "r1": "Job 18&19",
+      "r2": "Zephaniah 1",
+      "r3": "2 Peter 3"
+   }
+},
+ {
+   "date": "16-Dec",
+   "readings": {
+      "r1": "Job 20",
+      "r2": "Zephaniah 2",
+      "r3": "1 John 1&2"
+   }
+},
+ {
+   "date": "17-Dec",
+   "readings": {
+      "r1": "Job 21",
+      "r2": "Zephaniah 3",
+      "r3": "1 John 3&4"
+   }
+},
+ {
+   "date": "18-Dec",
+   "readings": {
+      "r1": "Job 22",
+      "r2": "Haggai",
+      "r3": "1 John 5"
+   }
+},
+ {
+   "date": "19-Dec",
+   "readings": {
+      "r1": "Job 23&24",
+      "r2": "Zechariah 1",
+      "r3": "2&3 John"
+   }
+},
+ {
+   "date": "20-Dec",
+   "readings": {
+      "r1": "Job 25&27",
+      "r2": "Zechariah 2&3",
+      "r3": "Jude"
+   }
+},
+ {
+   "date": "21-Dec",
+   "readings": {
+      "r1": "Job 28",
+      "r2": "Zechariah 4&5",
+      "r3": "Revelation 1&2"
+   }
+},
+ {
+   "date": "22-Dec",
+   "readings": {
+      "r1": "Job 29&30",
+      "r2": "Zechariah 6&7",
+      "r3": "Revelation 3&4"
+   }
+},
+ {
+   "date": "23-Dec",
+   "readings": {
+      "r1": "Job 31&32",
+      "r2": "Zechariah 8",
+      "r3": "Revelation 5&6"
+   }
+},
+ {
+   "date": "24-Dec",
+   "readings": {
+      "r1": "Job 33",
+      "r2": "Zechariah 9",
+      "r3": "Revelation 7&9"
+   }
+},
+ {
+   "date": "25-Dec",
+   "readings": {
+      "r1": "Job 34",
+      "r2": "Zechariah 10",
+      "r3": "Revelation 10&11"
+   }
+},
+ {
+   "date": "26-Dec",
+   "readings": {
+      "r1": "Job 35&36",
+      "r2": "Zechariah 11",
+      "r3": "Revelation 12&13"
+   }
+},
+ {
+   "date": "27-Dec",
+   "readings": {
+      "r1": "Job 37",
+      "r2": "Zechariah 12",
+      "r3": "Revelation 14"
+   }
+},
+ {
+   "date": "28-Dec",
+   "readings": {
+      "r1": "Job 38",
+      "r2": "Zechariah 13&14",
+      "r3": "Revelation 15&16"
+   }
+},
+ {
+   "date": "29-Dec",
+   "readings": {
+      "r1": "Job 39",
+      "r2": "Malachi 1",
+      "r3": "Revelation 17&18"
+   }
+},
+ {
+   "date": "30-Dec",
+   "readings": {
+      "r1": "Job 40",
+      "r2": "Malachi 2",
+      "r3": "Revelation 19&20"
+   }
+},
+ {
+   "date": "31-Dec",
+   "readings": {
+      "r1": "Job 41&42",
+      "r2": "Malachi 3",
+      "r3": "Revelation 21&22"
+   }
+}
+]
